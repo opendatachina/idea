@@ -1,6 +1,8 @@
-Idea pool for Open Data China
-====
+头脑风暴
+========
 
-please submit your idea via issues. 
+这里诚征各类好想法，好点子来驱动整个「开放数据中国」的项目进程。
 
-An idea can be a code project, research, writing, event, etc. 
+无论你是想要提议为「开放数据中国」设计一个更好的logo，还是你想要提议建立一个民间开放数据门户，又或是想要做一点关于开放数据的研究。你都可以在此提案，整个社区将会一同来商量如何进行项目，完成一场虚拟的黑客松！
+
+赶快点击[issue]（https://github.com/opendatachina/idea/issues）来提交你的想法吧！
