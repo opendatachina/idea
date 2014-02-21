@@ -5,4 +5,4 @@
 
 无论你是想要提议为「开放数据中国」设计一个更好的logo，还是你想要提议建立一个民间开放数据门户，又或是想要做一点关于开放数据的研究。你都可以在此提案，整个社区将会一同来商量如何进行项目，完成一场虚拟的黑客松！
 
-赶快点击[issue]（https://github.com/opendatachina/idea/issues）来提交你的想法吧！
+赶快点击[issue](https://github.com/opendatachina/idea/issues)来提交你的想法吧！
